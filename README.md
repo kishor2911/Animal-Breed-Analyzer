@@ -1,2 +1,26 @@
 # Animal-Breed-Analyzer
-Animal-Breed-Analyzer is a machine learning project designed to identify animal breeds from images. It leverages computer vision and deep learning techniques to classify breeds accurately. The project includes data preprocessing, model training, evaluation, and prediction modules, making it useful for educational, research,  practical applications.
+Animal-Breed-Analyzer is a deep learning project that identifies animal breeds from images using Convolutional Neural Networks (CNNs). The system leverages computer vision techniques and TensorFlow to build, train, and evaluate an image classification model capable of accurately predicting breeds.
+
+The project includes a complete ML pipeline: data collection, preprocessing, augmentation, model architecture design, training, evaluation, and inference. It demonstrates practical applications of CNNs in image recognition and serves as a valuable resource for learning and experimentation in deep learning.
+
+Key Features:
+
+Image preprocessing and augmentation
+
+CNN-based classification model
+
+Training and validation workflows
+
+Performance evaluation metrics
+
+Breed prediction from new images
+
+Technologies Used:
+
+TensorFlow / Keras
+
+Python
+
+NumPy / Pandas
+
+Matplotlib / Seaborn
